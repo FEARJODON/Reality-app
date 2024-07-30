@@ -31,6 +31,7 @@
 In this project, I have created an Angular app that lists houses for rent and shows the details of individual houses. This app uses features that are common to many Angular apps.
 
 Some of these features are:
+
 - Angular Components
 - Property Binding
 - Iterating Over Data With ngFor
@@ -39,7 +40,7 @@ Some of these features are:
 - Form Groups and Form Controls
 - Event Binding
 - HTTP Requests (Local JSON Server)
-  
+
 The tutorial for this project can be found [here](https://angular.dev/tutorials/first-app).
 
 <br>
@@ -95,13 +96,14 @@ In order to run this project you need:
 <br>
 
 # Angular Homes App Setup <a name="setup"></a>
+
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
 
 - Clone this branch to your local machine
 
-  `git clone https://github.com/justinpope99/Angular-Homes-App-2`
+  `git clone https://github.com/FEARJODON
 
 - Once the code has been downloaded, rename the directory to "homes-app"
 
@@ -109,9 +111,9 @@ In order to run this project you need:
 
 - Install the depencies
 
-  `npm install` 
-  
-- Run the application 
+  `npm install`
+
+- Run the application
 
   `ng serve`
 
@@ -148,8 +150,8 @@ In order to run this project you need:
 
 👤 **Justin Pope**
 
-- GitHub: [@justinpope99](https://github.com/justinpope99)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/justin-pope-2a040a102/)
+- GitHub: [https://github.com/FEARJODON
+- LinkedIn: [LinkedIn] https://www.linkedin.com/in/jonathan-lake-87a8b9258/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
